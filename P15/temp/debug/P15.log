@@ -1,0 +1,15 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(444,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(445,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  P15.c
+C:\Users\zhija\Desktop\P15\source\P15.c(7,18): warning C4566: 由通用字元名稱 '\u202A' 表示的字元，無法在目前的字碼頁中表示 (950)
+C:\Users\zhija\Desktop\P15\source\P15.c(7,38): warning C4047: '函式': 'FILE **' 與 'char [16]' 間接取值的層級不同
+C:\Users\zhija\Desktop\P15\source\P15.c(7,38): warning C4024: 'fopen_s': 型式和實質參數 1 不同的類型
+C:\Users\zhija\Desktop\P15\source\P15.c(7,46): warning C4047: '函式': 'const char *' 與 'int' 間接取值的層級不同
+C:\Users\zhija\Desktop\P15\source\P15.c(7,46): warning C4024: 'fopen_s': 型式和實質參數 3 不同的類型
+C:\Users\zhija\Desktop\P15\source\P15.c(7,47): warning C4047: '=': 'FILE *' 與 'errno_t' 間接取值的層級不同
+C:\Users\zhija\Desktop\P15\source\P15.c(8,34): warning C4047: '函式': 'FILE **' 與 'char [14]' 間接取值的層級不同
+C:\Users\zhija\Desktop\P15\source\P15.c(8,34): warning C4024: 'fopen_s': 型式和實質參數 1 不同的類型
+C:\Users\zhija\Desktop\P15\source\P15.c(8,42): warning C4047: '函式': 'const char *' 與 'int' 間接取值的層級不同
+C:\Users\zhija\Desktop\P15\source\P15.c(8,42): warning C4024: 'fopen_s': 型式和實質參數 3 不同的類型
+C:\Users\zhija\Desktop\P15\source\P15.c(8,43): warning C4047: '=': 'FILE *' 與 'errno_t' 間接取值的層級不同
+  P15.vcxproj -> C:\Users\zhija\Desktop\P15\HW\P15\P15\..\..\..\temp\debug\P15.exe
